@@ -1,5 +1,5 @@
 # Benchmark-datasets-for-video-analysis
-Links to datasets for benchmarking pose estimation and behavioral segmentation
+PDF files with links to datasets for benchmarking pose estimation and behavioral segmentation
 
 These tables are from the following manuscript:
 
